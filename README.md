@@ -9,4 +9,4 @@ Esto es un prueba para probar el pull desde el remote
 
 
 ## Notas V.1
-Esto son cambios Nuevos
+Esto son cambios Nuevos desde el remote
